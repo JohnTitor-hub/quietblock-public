@@ -363,13 +363,6 @@ input::file-selector-button {
   font-weight: 700;
   text-decoration: underline;
 }
-.preview-note {
-  padding: 10px 0;
-  border-top: 1px solid var(--line);
-  border-bottom: 1px solid var(--line);
-  font-size: 12px;
-  letter-spacing: 0.2px;
-}
 .site-page {
   padding-top: 36px;
 }

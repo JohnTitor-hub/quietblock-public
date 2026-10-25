@@ -2,6 +2,8 @@
 
 Quietblock is distributed under GPL version 3. The full license is in `LICENSE`.
 
+Copyright (C) 2026 Quietblock contributors, for original Quietblock contributions. Upstream components retain their original copyright and license notices below and in their source files.
+
 - `vendor/eyeo-sdk`: eyeo Web Extension Ad-Filtering Solution and Adblock Plus Core, copyright eyeo GmbH and contributors. GPL version 3; see the included `COPYING` files and `LICENSE-THIRD-PARTY`.
 - `vendor/eyeo-snippets`: eyeo Anti-Circumvention Snippets, copyright eyeo GmbH and contributors. GPL-3.0-only; see its `COPYING` and `LICENSE.js`.
 - The included jsbn implementation retains its original license under `vendor/eyeo-sdk/adblockpluscore/vendor/jsbn/LICENSE`.
