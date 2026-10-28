@@ -2,6 +2,8 @@
 
 A small ad-filtering extension with local controls and no product telemetry.
 
+Install from the [Chrome Web Store](https://chromewebstore.google.com/detail/quietblock/nobfomhdaieijkdakodkkfonnljbbbbl). Version 0.1.0 is published.
+
 This repository contains Quietblock's static privacy, support and versioned source-download website.
 
 Publisher: Quietblock. Repository owner: `JohnTitor-hub`. Website: https://johntitor-hub.github.io/quietblock-public/.
